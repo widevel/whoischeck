@@ -1,0 +1,4 @@
+<files ~ "^(whois.log|whois.cache.json|whois.mail.tmpl)$">
+    order allow,deny
+    deny from all
+</files>
